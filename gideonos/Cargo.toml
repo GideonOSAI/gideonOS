@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "gideonos-core",
+    "gideonos-kernel",
+    "gideonos-ai",
+    "gideonos-cluster"
+]
